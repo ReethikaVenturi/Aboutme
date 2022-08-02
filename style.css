@@ -1,0 +1,9 @@
+HTML / XHTML: <style type="text/css"> ... </style>
+<head>
+    <title>My Document<title>
+    <style>
+        h1 { 
+            color: #666; 
+        }
+    </style>
+</head>
